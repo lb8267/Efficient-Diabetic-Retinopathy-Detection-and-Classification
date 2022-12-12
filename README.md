@@ -1,4 +1,5 @@
 # Efficient-Diabetic-Retinopathy-Detection-and-Classification
+I have shared with GitFront IO
 Description :
 
 Millions of people suffer from diabetic retinopathy, the leading cause of blindness among working aged adults. In our proposed model, i have used the private datasets along with public datasets for model development.For private datasets, i have conducted the pilot study at SRM Medical College Hospital and Research Centre, Chennai for diabetic patients. Then we collected the retinal images from patients for further evaluation, All images were graded by experienced ophthalmologist for model training and testing purpose.I bulit an optimized deep learning model to speed up the disease detection and classification. I have worked on plenty no of images collected in rural areas to help identify diabetic retinopathy automatically.
